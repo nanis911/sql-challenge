@@ -16,4 +16,4 @@ The database contains the following tables:
 ### Key Features:
 - **Foreign Keys**: Enforce relationships between employees, departments, and salary records.
 - **Composite Keys**: Used in `dept_emp` and `dept_manager` for multi-column unique identification.
-- **Normalization**: Data is organized to reduce redundancy.
+
